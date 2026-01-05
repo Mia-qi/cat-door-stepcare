@@ -1,0 +1,90 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "首页",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/order/order",
+      "style": {
+        "navigationBarTitleText": "我的订单"
+      }
+    },
+    {
+      "path": "pages/order/detail",
+      "style": {
+        "navigationBarTitleText": "订单详情"
+      }
+    },
+    {
+      "path": "pages/service/service",
+      "style": {
+        "navigationBarTitleText": "服务详情"
+      }
+    },
+    {
+      "path": "pages/booking/booking",
+      "style": {
+        "navigationBarTitleText": "预约服务"
+      }
+    },
+    {
+      "path": "pages/profile/profile",
+      "style": {
+        "navigationBarTitleText": "我的"
+      }
+    },
+    {
+      "path": "pages/settings/settings",
+      "style": {
+        "navigationBarTitleText": "设置"
+      }
+    },
+    {
+      "path": "pages/master/login",
+      "style": {
+        "navigationBarTitleText": "师傅登录"
+      }
+    },
+    {
+      "path": "pages/master/register",
+      "style": {
+        "navigationBarTitleText": "师傅注册"
+      }
+    },
+    {
+      "path": "pages/master/index",
+      "style": {
+        "navigationBarTitleText": "师傅端首页",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/master/certification",
+      "style": {
+        "navigationBarTitleText": "实名认证"
+      }
+    },
+    {
+      "path": "pages/master/order-detail",
+      "style": {
+        "navigationBarTitleText": "订单详情"
+      }
+    },
+    {
+      "path": "pages/master/profile",
+      "style": {
+        "navigationBarTitleText": "个人中心"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "上门喂猫",
+    "navigationBarBackgroundColor": "#FFE4B5",
+    "backgroundColor": "#FFF8DC"
+  }
+}
